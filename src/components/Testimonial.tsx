@@ -11,7 +11,7 @@ import Image from "next/image";
 export default function Testimonial(){
   return(<div className="testimonial px-2 ">
     <div className="flex flex-col gap-10 mx-4">
-    <div className=" border border-red-600 flex flex-col  justify-center ">
+    <div className="flex flex-col  justify-center ">
       <h4 className="font-bold text-4xl">What our students say</h4>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
